@@ -117,16 +117,16 @@ sunrise-dashboard/
 
 # changing background image according to the time in BRAZIL
 
-![alt text](<Screenshot 2024-11-30 at 5.55.52 AM.png>)
+![alt text](image2.png)
 
 # Selecting Location using MAP 
 
-![alt text](<Screenshot 2024-11-30 at 5.56.10 AM.png>)
+![alt text](image3.png)
 
 # Responsive LAYOUTS in IPHONE 14PRO MAX 
 
-![alt text](<Screenshot 2024-11-30 at 5.57.30 AM.png>)
+![alt text](image4.png)
 
 # for size 1200 X 1260 
 
-![alt text](<Screenshot 2024-11-30 at 5.57.45 AM.png>)
+![alt text](image5.png)

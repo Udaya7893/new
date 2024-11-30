@@ -113,7 +113,7 @@ sunrise-dashboard/
 # Sample Screenshot of the Application working
 
 
-![alt text](<Screenshot 2024-11-30 at 5.55.32 AM.png>)
+![alt text](image1.png)
 
 # changing background image according to the time in BRAZIL
 
